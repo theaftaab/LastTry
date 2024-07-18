@@ -37,7 +37,5 @@ The Similar Document Template Matching Algorithm is a Python GUI application for
 - The application is compatible with both Windows and macOS environments.
 - If you encounter any issues, please check the console for error messages or refer to the project's documentation.
 
-## Support
-For any questions or assistance, please contact [Himanshu](mailto:himanshumahajan138@gmail.com).
 
 --- 
