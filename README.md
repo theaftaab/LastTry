@@ -7,7 +7,7 @@ The Similar Document Template Matching Algorithm is a Python GUI application for
 ## Installation
 1. Clone or download the repository to your local machine.
    ```bash
-   git clone https://github.com/himanshumahajan138/Similar_Document_Template_Matching_Algorithm.git
+   https://github.com/theaftaab/LastTry.git
    ```
 
 2. Navigate to the project directory.
