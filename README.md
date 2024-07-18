@@ -10,12 +10,7 @@ The Similar Document Template Matching Algorithm is a Python GUI application for
    https://github.com/theaftaab/LastTry.git
    ```
 
-2. Navigate to the project directory.
-   ```bash
-   cd Similar_Document_Template_Matching_Algorithm
-   ```
-
-3. Install the required dependencies using pip.
+2. Install the required dependencies using pip.
    ```bash
    pip install -r requirements.txt
    ```
